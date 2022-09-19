@@ -1,5 +1,7 @@
 # ExplodingHoomons
 
+ExplodingHoomons ia a game on the platform "Roblox". It is a Multiplayer game, where players dodge enemies while trying to get through the obstacle course to get to the light.
+
 While this game looks very simple. It was very difficult due to the platform I was using to create the game on, as their physics engine
 was not the fastest.
 
